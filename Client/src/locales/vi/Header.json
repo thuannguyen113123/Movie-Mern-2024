@@ -1,0 +1,12 @@
+{
+    "home" : "Trang chủ",
+    "movies": "Phim",
+    "tv": "TV Series",
+    "search": "Tìm Kiếm",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "profile": "Thông tin",
+    "logout": "Đăng xuất",
+    "listFavorite": "Danh sách yêu thích",
+    "changePassword": "Đổi mật khẩu"
+}
